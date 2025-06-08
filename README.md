@@ -13,7 +13,7 @@ We evaluate our approach using real-world cybersecurity data from the DARPA Tran
 ![Architecture](https://github.com/tfapt/tf-apt/blob/main/figure/pipeline.png)
 
 
-# FLAGUS APT-AutoEncoders 
+# APT-AutoEncoders 
 
 Run the script:
 ```shell
