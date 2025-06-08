@@ -1,6 +1,4 @@
-## From One Attack Domain to Another: Contrastive
-Transfer Learning with Siamese Networks for APT
-Detection.
+## From One Attack Domain to Another: Contrastive Transfer Learning with Siamese Networks for APT Detection.
 
 ## Abstract
 
@@ -12,4 +10,4 @@ We evaluate our approach using real-world cybersecurity data from the DARPA Tran
 
 ## Architecture
 
-![Architecture](https://github.com/tfapt/tf-apt/blob/main/figure/TransferLearningPipeline.pdf)
+![Architecture](https://github.com/tfapt/tf-apt/blob/main/figure/pipeline.png)
