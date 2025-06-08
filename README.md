@@ -1,4 +1,4 @@
-##From One Attack Domain to Another: Contrastive
+## From One Attack Domain to Another: Contrastive
 Transfer Learning with Siamese Networks for APT
 Detection.
 
@@ -11,3 +11,5 @@ To address these challenges, we propose a hybrid framework integrating Transfer 
 We evaluate our approach using real-world cybersecurity data from the DARPA Transparent Computing program, augmented with synthetic attack traces to simulate diverse cyber threats. By combining transfer learning, XAI-driven feature selection, contrastive learning, and synthetic data augmentation, our framework establishes a new benchmark for scalable, explainable, and transferable APT detection.
 
 ## Architecture
+
+![Architecture](https://github.com/tfapt/tf-apt/blob/main/figure/TransferLearningPipeline.pdf)
